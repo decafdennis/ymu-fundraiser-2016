@@ -89,6 +89,21 @@ p {
   text-align-last: center;
 }
 
+img.facebook, img.meetup {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 90px;
+}
+
+img.facebook {
+  left: 38px;
+}
+
+img.meetup {
+  left: 88px;
+}
+
 a {
   // For debugging.
   // outline: 1px solid red;
